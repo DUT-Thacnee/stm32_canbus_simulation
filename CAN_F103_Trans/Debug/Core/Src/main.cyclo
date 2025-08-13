@@ -1,0 +1,12 @@
+../Core/Src/main.c:77:6:CAN_filter_config_init	2
+../Core/Src/main.c:95:6:CAN_transmit_init	1
+../Core/Src/main.c:103:6:transmit_data_block	3
+../Core/Src/main.c:116:6:HAL_GPIO_EXTI_Callback	9
+../Core/Src/main.c:152:6:HAL_ADC_ConvCpltCallback	3
+../Core/Src/main.c:171:5:main	6
+../Core/Src/main.c:234:6:SystemClock_Config	4
+../Core/Src/main.c:281:13:MX_ADC1_Init	3
+../Core/Src/main.c:328:13:MX_CAN_Init	2
+../Core/Src/main.c:363:13:MX_DMA_Init	1
+../Core/Src/main.c:381:13:MX_GPIO_Init	1
+../Core/Src/main.c:435:6:Error_Handler	1
